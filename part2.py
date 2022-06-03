@@ -11,3 +11,8 @@ Hunter
 Hunter
 
 '''
+Times_to_print=int(input("Time to print: "))
+times=0
+while times!=Times_to_print:
+  print("Hunter")
+  times=times+1
